@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.dating.datingsuggestions.model.User;
 import com.dating.datingsuggestions.service.SuggestionsService;
-import com.dating.datingsuggestions.service.SuggestionsService2;
 
 @RestController
 public class SuggestionsController {	
