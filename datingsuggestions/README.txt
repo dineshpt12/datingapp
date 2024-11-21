@@ -6,6 +6,9 @@ Download the project source folder datingsuggestions from below Github repositor
 https://github.com/dineshpt12/datingapp.git
 
 Extract the folder in C:\Working\Projects\datingsuggestions
+
+Copy C:\Working\Projects\datingsuggestions\db\data folder to C: drive. 
+
 Make sure JDK 21 is installed on the machine if not download JDK 21 from the below link:
 https://www.oracle.com/in/java/technologies/downloads/#jdk21-windows
 Extract the zip jdk-21.0.5 and copy the fonder in C drive:
@@ -27,3 +30,5 @@ http://localhost:8080/datingapp/2/topmatches/2
 
 H2 Database Console:
 http://localhost:8080/h2-console
+Username: sa
+Password: password
